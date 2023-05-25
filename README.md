@@ -1,5 +1,5 @@
 # Wavelabs-Assignment
-[Answer](https://github.com/iamswarnadeep/Wavelabs-Assignment/blob/main/Answer.++)
+[Answer](https://github.com/iamswarnadeep/Wavelabs-Assignment/blob/main/Answer.cpp)
 
 # Testcase 1
 ![Testcase 1](https://raw.githubusercontent.com/iamswarnadeep/Wavelabs-Assignment/main/Test%20Case%201.jpg "Testcase 1")
